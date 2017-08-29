@@ -560,7 +560,7 @@
 					"\"$(SRCROOT)/../../libs/BaiduPushAPI\"",
 				);
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_BUNDLE_IDENTIFIER = com.trinasolar.mobile;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bokesoft.test;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "2b6e11b3-b1d0-4e3c-a985-a7c729b0cd1d";
 				PROVISIONING_PROFILE_SPECIFIER = com.trinasolar.mobile;
@@ -593,7 +593,7 @@
 					"\"$(SRCROOT)/../../libs/BaiduPushAPI\"",
 				);
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_BUNDLE_IDENTIFIER = com.trinasolar.mobile;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bokesoft.test;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "2b6e11b3-b1d0-4e3c-a985-a7c729b0cd1d";
 				PROVISIONING_PROFILE_SPECIFIER = com.trinasolar.mobile;
