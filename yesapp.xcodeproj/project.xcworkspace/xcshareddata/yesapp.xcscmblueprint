@@ -1,0 +1,45 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "37e8570e-bc13-9b4c-b58a-8b73ca0705eb++5690",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "37e8570e-bc13-9b4c-b58a-8b73ca0705eb++5690" : {
+
+    },
+    "37e8570e-bc13-9b4c-b58a-8b73ca0705eb++3855" : {
+
+    },
+    "37e8570e-bc13-9b4c-b58a-8b73ca0705eb++3415" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "37e8570e-bc13-9b4c-b58a-8b73ca0705eb++5690" : 9223372036854775807,
+    "37e8570e-bc13-9b4c-b58a-8b73ca0705eb++3855" : 9223372036854775807,
+    "37e8570e-bc13-9b4c-b58a-8b73ca0705eb++3415" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "054EE234-5F08-48BB-AE59-7FB17E904B51",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "37e8570e-bc13-9b4c-b58a-8b73ca0705eb++5690" : "yesapp\/",
+    "37e8570e-bc13-9b4c-b58a-8b73ca0705eb++3855" : "..\/..",
+    "37e8570e-bc13-9b4c-b58a-8b73ca0705eb++3415" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "yesapp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "yesapp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/1.1.2.17:8000\/svn\/yes",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "37e8570e-bc13-9b4c-b58a-8b73ca0705eb++3415"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/1.1.2.17:8000\/svn\/yes",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "37e8570e-bc13-9b4c-b58a-8b73ca0705eb++3855"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/1.1.2.17:8000\/svn\/yes",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "37e8570e-bc13-9b4c-b58a-8b73ca0705eb++5690"
+    }
+  ]
+}
