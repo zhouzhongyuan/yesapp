@@ -354,7 +354,7 @@
 				TargetAttributes = {
 					AE8A962D1E0140B90036BF93 = {
 						CreatedOnToolsVersion = 8.1;
-						ProvisioningStyle = Manual;
+						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
 								enabled = 1;
